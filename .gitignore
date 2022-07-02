@@ -1,2 +1,3 @@
 *.xml
-/.setting/*
+/.settings/*
+/target/*
